@@ -134,7 +134,6 @@ header h1 {
   color: #2d3436;
   line-height: 1.6;
   font-weight: 600;
-  transition: filter 0.3s ease;
 }
 
 .flip-card-back .card-content p.blurred {
