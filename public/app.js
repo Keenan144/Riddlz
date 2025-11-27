@@ -64,6 +64,9 @@ function displayRiddle() {
   answerText.textContent = currentRiddle.answer;
   currentRiddleSpan.textContent = currentIndex + 1;
 
+  // Blur the answer text to prevent spoilers
+  answerText.classList.add('blurred');
+
   // Track riddle viewed
   riddlesViewed++;
   trackEvent('riddle_viewed', {
@@ -84,8 +87,9 @@ function toggleFlip() {
   isFlipped = !isFlipped;
   updateControls();
 
-  // Track when answer is revealed
+  // Track when answer is revealed and remove blur
   if (isFlipped) {
+    answerText.classList.remove('blurred');
     riddlesRevealed++;
     const currentRiddle = riddles[currentIndex];
     trackEvent('riddle_revealed', {
