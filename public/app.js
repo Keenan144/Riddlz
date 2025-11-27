@@ -9,6 +9,7 @@ let sessionStartTime = Date.now();
 
 const flipCard = document.getElementById('flip-card');
 const revealBtn = document.getElementById('reveal-btn');
+const backBtn = document.getElementById('back-btn');
 const riddleText = document.getElementById('riddle-text');
 const answerText = document.getElementById('answer-text');
 const currentRiddleSpan = document.getElementById('current-riddle');
@@ -40,7 +41,10 @@ async function loadRiddles() {
   try {
     const response = await fetch('/api/riddles');
     const data = await response.json();
-    riddles = shuffleArray(data.riddles);
+
+    // Filter out riddles that are too long (more than 280 characters)
+    const filteredRiddles = data.riddles.filter(riddle => riddle.question.length <= 280);
+    riddles = shuffleArray(filteredRiddles);
     totalRiddlesSpan.textContent = riddles.length;
 
     // Track session started
@@ -50,6 +54,7 @@ async function loadRiddles() {
     });
 
     displayRiddle();
+    updateBackButton();
   } catch (error) {
     console.error('Failed to load riddles:', error);
     riddleText.textContent = 'Failed to load riddles. Please refresh the page.';
@@ -79,6 +84,16 @@ function displayRiddle() {
     flipCard.classList.remove('flipped');
     isFlipped = false;
     updateControls();
+  }
+
+  updateBackButton();
+}
+
+function updateBackButton() {
+  if (currentIndex === 0) {
+    backBtn.disabled = true;
+  } else {
+    backBtn.disabled = false;
   }
 }
 
@@ -121,8 +136,19 @@ function nextRiddle() {
   displayRiddle();
 }
 
+function previousRiddle() {
+  if (currentIndex > 0) {
+    currentIndex = currentIndex - 1;
+    displayRiddle();
+  }
+}
+
 function handleReveal() {
   toggleFlip();
+}
+
+function handleBack() {
+  previousRiddle();
 }
 
 function handleCorrect() {
@@ -164,6 +190,7 @@ function handleWrong() {
 
 flipCard.addEventListener('click', toggleFlip);
 revealBtn.addEventListener('click', handleReveal);
+backBtn.addEventListener('click', handleBack);
 correctBtn.addEventListener('click', handleCorrect);
 wrongBtn.addEventListener('click', handleWrong);
 
