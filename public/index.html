@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Riddlz - Fun Riddles App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Riddlz</h1>
+      <div class="stats">
+        <div class="counter">
+          <span id="current-riddle">1</span> / <span id="total-riddles">0</span>
+        </div>
+        <div class="score">
+          Score: <span id="correct-count">0</span> / <span id="attempted-count">0</span>
+        </div>
+      </div>
+    </header>
+
+    <div class="card-container">
+      <div class="flip-card" id="flip-card">
+        <div class="flip-card-inner">
+          <div class="flip-card-front">
+            <div class="card-content">
+              <div class="card-icon">🤔</div>
+              <p id="riddle-text">Loading riddles...</p>
+            </div>
+          </div>
+          <div class="flip-card-back">
+            <div class="card-content">
+              <div class="card-icon">💡</div>
+              <p id="answer-text">Answer appears here</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="controls">
+      <div id="riddle-controls" class="riddle-controls">
+        <button id="reveal-btn" class="action-btn">Reveal Answer</button>
+      </div>
+      <div id="answer-controls" class="answer-controls hidden">
+        <button id="wrong-btn" class="score-btn wrong-btn">Got it Wrong</button>
+        <button id="correct-btn" class="score-btn correct-btn">Got it Right!</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

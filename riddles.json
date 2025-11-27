@@ -1,0 +1,604 @@
+{
+  "riddles": [
+    {
+      "question": "What has keys but no locks, space but no room, and you can enter but can't go inside?",
+      "answer": "A keyboard"
+    },
+    {
+      "question": "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",
+      "answer": "An echo"
+    },
+    {
+      "question": "The more you take, the more you leave behind. What am I?",
+      "answer": "Footsteps"
+    },
+    {
+      "question": "What can travel around the world while staying in a corner?",
+      "answer": "A stamp"
+    },
+    {
+      "question": "I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?",
+      "answer": "A map"
+    },
+    {
+      "question": "What gets wet while drying?",
+      "answer": "A towel"
+    },
+    {
+      "question": "What can you catch but never throw?",
+      "answer": "A cold"
+    },
+    {
+      "question": "I'm tall when I'm young, and I'm short when I'm old. What am I?",
+      "answer": "A candle"
+    },
+    {
+      "question": "What has a head and a tail but no body?",
+      "answer": "A coin"
+    },
+    {
+      "question": "What has hands but cannot clap?",
+      "answer": "A clock"
+    },
+    {
+      "question": "What has a foot but no legs?",
+      "answer": "A ruler"
+    },
+    {
+      "question": "What has a horn but doesn't beep?",
+      "answer": "A rhinoceros"
+    },
+    {
+      "question": "I have no mouth, but I can still talk. I often repeat, but I never balk. What am I?",
+      "answer": "An echo"
+    },
+    {
+      "question": "I'm not a teacher, but I help you write. What am I?",
+      "answer": "A pencil"
+    },
+    {
+      "question": "I'm full of words and pictures too. Open me up to learn something new. What am I?",
+      "answer": "A textbook"
+    },
+    {
+      "question": "I ring when it's time to start or end. I'm not a phone, but I'm every student's friend. What am I?",
+      "answer": "A school bell"
+    },
+    {
+      "question": "I bear the weight of knowledge on my shoulders every day. You'll find me full at dawn and lighter by the hallway. What am I?",
+      "answer": "A backpack"
+    },
+    {
+      "question": "I'm made of sand, and I might have a moat. Build me near water, but I'm not a boat. What am I?",
+      "answer": "A sandcastle"
+    },
+    {
+      "question": "I have a sail but no captain or crew. I fly in the sky, and kids love me too. What am I?",
+      "answer": "A kite"
+    },
+    {
+      "question": "I'm sticky and sweet and come on a stick. But eat me too slowly, and I'll do a quick trick. What am I?",
+      "answer": "A popsicle"
+    },
+    {
+      "question": "I buzz and I hum and I fly all around. In the summer, you'll hear me; my wings make the sound. What am I?",
+      "answer": "A bee"
+    },
+    {
+      "question": "What has a heart that doesn't beat?",
+      "answer": "An artichoke"
+    },
+    {
+      "question": "What has a spine but no bones?",
+      "answer": "A book"
+    },
+    {
+      "question": "What has cities but no houses, forests but no trees, and rivers but no water?",
+      "answer": "A map"
+    },
+    {
+      "question": "The more you take away from me, the bigger I get. What am I?",
+      "answer": "A hole"
+    },
+    {
+      "question": "I'm full of words, but I can't speak. I'm full of knowledge, but I can't think. What am I?",
+      "answer": "A book"
+    },
+    {
+      "question": "I fly without wings, I have a tail but no fur. I swim without fins, and I'm known to purr. What am I?",
+      "answer": "A catfish"
+    },
+    {
+      "question": "What has a thumb and four fingers but is not alive?",
+      "answer": "A glove"
+    },
+    {
+      "question": "I'm full of holes, but I can hold water. What am I?",
+      "answer": "A sponge"
+    },
+    {
+      "question": "I'm an animal that carries my house on my back. I never run fast; I'm known to be slack. What am I?",
+      "answer": "A snail"
+    },
+    {
+      "question": "What has teeth but can't bite?",
+      "answer": "A comb"
+    },
+    {
+      "question": "What has a neck but no head, and wears a cap?",
+      "answer": "A bottle"
+    },
+    {
+      "question": "I'm green and jump, but I'm not a frog. I croak and sing, especially in the fog. What am I?",
+      "answer": "A toad"
+    },
+    {
+      "question": "What has a bark but no bite?",
+      "answer": "A tree"
+    },
+    {
+      "question": "What has wheels and flies but is not an airplane?",
+      "answer": "A garbage truck"
+    },
+    {
+      "question": "What has a ring but no finger?",
+      "answer": "A telephone"
+    },
+    {
+      "question": "What has ears but cannot hear?",
+      "answer": "A cornfield"
+    },
+    {
+      "question": "What has legs but doesn't walk?",
+      "answer": "A table"
+    },
+    {
+      "question": "I'm your home and the third from the Sun. I've got water and life—aren't I the fun one? What am I?",
+      "answer": "Earth"
+    },
+    {
+      "question": "I'm the planet with the most bling, I've got rings you can't help noticing! What am I?",
+      "answer": "Saturn"
+    },
+    {
+      "question": "I'm red all over, with dust in the air. Some people think I might have had water to share. What am I?",
+      "answer": "Mars"
+    },
+    {
+      "question": "I'm closest to the Sun, but I don't get much attention. I'm small and speedy—just thought I'd mention! What am I?",
+      "answer": "Mercury"
+    },
+    {
+      "question": "I've got rings around me, but I'm not Saturn. I'm tilted sideways, so my days take an odd pattern. What am I?",
+      "answer": "Uranus"
+    },
+    {
+      "question": "I'm a gas giant and the biggest by far. With a Great Red Spot, I'm the king of the stars! What am I?",
+      "answer": "Jupiter"
+    },
+    {
+      "question": "I'm the hottest planet, though I'm not closest to the Sun. What am I?",
+      "answer": "Venus"
+    },
+    {
+      "question": "I have storms that rage for hundreds of years. My winds are the fastest—no competition here! What am I?",
+      "answer": "Neptune"
+    },
+    {
+      "question": "I'm not alive, but I can grow. I don't have lungs, but I need air. I'm not a plant, but I need water. What am I?",
+      "answer": "Fire"
+    },
+    {
+      "question": "I change shape but never disappear. I can be solid, liquid, or gas, and I'm found everywhere. What am I?",
+      "answer": "Water"
+    },
+    {
+      "question": "I live in the sky but fall to the ground. I'm cold and white and make no sound. What am I?",
+      "answer": "Snow"
+    },
+    {
+      "question": "I'm hot and bright, but don't touch! I shoot up from the Earth in a big rush. What am I?",
+      "answer": "A volcano"
+    },
+    {
+      "question": "I'm round, but I'm not a ball. I have layers, but I'm not a cake. I'm in space, but I'm not a star. What am I?",
+      "answer": "The Earth"
+    },
+    {
+      "question": "How many months of the year have 28 days?",
+      "answer": "All of them! Every month has at least 28 days"
+    },
+    {
+      "question": "What has hands and a face, but can't hold anything or smile?",
+      "answer": "A clock"
+    },
+    {
+      "question": "It belongs to you, but your friends use it more. What is it?",
+      "answer": "Your name"
+    },
+    {
+      "question": "Kate's mother has three children: Snap, Crackle and ___?",
+      "answer": "Kate"
+    },
+    {
+      "question": "If you don't keep me, I'll break. What am I?",
+      "answer": "A promise"
+    },
+    {
+      "question": "There's only one word in the dictionary that's spelled wrong. What is it?",
+      "answer": "The word 'wrong'"
+    },
+    {
+      "question": "You're running a race and at the very end, you pass the person in 2nd place. What place did you finish the race in?",
+      "answer": "You finished in 2nd place"
+    },
+    {
+      "question": "What 2 things can you never eat for breakfast?",
+      "answer": "Lunch and dinner"
+    },
+    {
+      "question": "I am so simple that I can only point, yet I guide people all over the world.",
+      "answer": "A compass"
+    },
+    {
+      "question": "What has thirteen hearts, but no other organs?",
+      "answer": "A deck of cards"
+    },
+    {
+      "question": "Which word becomes shorter when you add 2 letters to it?",
+      "answer": "The word 'short'"
+    },
+    {
+      "question": "What's the capital of France?",
+      "answer": "The letter F"
+    },
+    {
+      "question": "What has keys but can't open locks?",
+      "answer": "A piano"
+    },
+    {
+      "question": "What comes down but never goes up?",
+      "answer": "Rain"
+    },
+    {
+      "question": "I go up and down, but never move. What am I?",
+      "answer": "A staircase"
+    },
+    {
+      "question": "When Grant was 8, his brother was half his age. Now, Grant is 14. How old is his brother?",
+      "answer": "His brother is 10"
+    },
+    {
+      "question": "Two fathers and 2 sons spent the day fishing, but only caught 3 fish. This was enough for each of them to have one fish. How is this possible?",
+      "answer": "There were only 3 people fishing: one father, his son, and his son's son"
+    },
+    {
+      "question": "Liam was 11 the day before yesterday, and next year he'll turn 14. How is this possible?",
+      "answer": "Today is January 1st, and Liam's birthday is December 31st"
+    },
+    {
+      "question": "Mrs. Brown has 5 daughters. Each of these daughters has a brother. How many children does Mrs. Brown have?",
+      "answer": "6 children"
+    },
+    {
+      "question": "It's raining at midnight, but the forecast for tomorrow and the next day is clear. Will there be sunny weather in 48 hours?",
+      "answer": "No, it will be midnight again"
+    },
+    {
+      "question": "There are 3 apples in the basket and you take away 2. How many apples do you have now?",
+      "answer": "You have 2 apples"
+    },
+    {
+      "question": "What can you put between 7 and 8, to make the result greater than 7, but less than 8?",
+      "answer": "A decimal point (7.8)"
+    },
+    {
+      "question": "A new clothing store has a unique method of pricing items. A vest costs $20, a tie costs $15, a blouse costs $30, and underwear costs $45. How much would pants cost?",
+      "answer": "$25 (The pricing method charges $5 for each letter)"
+    },
+    {
+      "question": "81 x 9 = 801. What do you need to do to make this equation true?",
+      "answer": "Turn it upside down (108 = 6 x 18)"
+    },
+    {
+      "question": "Double it and multiply it by 4. Then divide it by 8 and you'll have it once more. What number is it?",
+      "answer": "Any number"
+    },
+    {
+      "question": "What 3 numbers give the same result when multiplied and added together?",
+      "answer": "1, 2, and 3"
+    },
+    {
+      "question": "Zoey has a very big family. She has 20 aunts, 20 uncles and 50 cousins. Each of her cousins has an aunt who is not Zoey's aunt. How is this possible?",
+      "answer": "Their aunt is Zoey's mom"
+    },
+    {
+      "question": "I am an odd number. Take away a letter and I become even. What number am I?",
+      "answer": "Seven"
+    },
+    {
+      "question": "Which is heavier: a ton of bricks or a ton of feathers?",
+      "answer": "Neither—they both weigh a ton"
+    },
+    {
+      "question": "I am a three-digit number. My tens digit is five more than my ones digit. My hundreds digit is eight less than my tens digit. What number am I?",
+      "answer": "194"
+    },
+    {
+      "question": "Using only addition, how can you add eight 8's to get the number 1,000?",
+      "answer": "888 + 88 + 8 + 8 + 8 = 1,000"
+    },
+    {
+      "question": "You'll find me in Mercury, Earth, Mars and Jupiter, but not in Venus or Neptune. What am I?",
+      "answer": "The letter R"
+    },
+    {
+      "question": "What can go up a chimney down, but can't go down a chimney up?",
+      "answer": "An umbrella"
+    },
+    {
+      "question": "I make a loud sound when I'm changing. When I do change, I get bigger but weigh less. What am I?",
+      "answer": "Popcorn"
+    },
+    {
+      "question": "A bus driver was heading down a busy street in the city. He went past three stop signs without stopping, went the wrong way down a one-way street, and answered a message on his phone. But the bus driver didn't break any traffic laws. How?",
+      "answer": "He was walking, not driving"
+    },
+    {
+      "question": "I can fill a room, but I take up no space. What am I?",
+      "answer": "Light"
+    },
+    {
+      "question": "It's the only place in the world where today comes before yesterday. Where is it?",
+      "answer": "The dictionary"
+    },
+    {
+      "question": "If I have it, I don't share it. If I share it, I don't have it. What is it?",
+      "answer": "A secret"
+    },
+    {
+      "question": "What goes away as soon as you talk about it?",
+      "answer": "Silence"
+    },
+    {
+      "question": "A railroad crossing without any cars. Can you spell that without any R's?",
+      "answer": "T-H-A-T"
+    },
+    {
+      "question": "What can run but cannot walk?",
+      "answer": "Water"
+    },
+    {
+      "question": "What has a mouth but can't speak?",
+      "answer": "A river"
+    },
+    {
+      "question": "What has one eye but can't see?",
+      "answer": "A needle"
+    },
+    {
+      "question": "Everyone has me but no one can lose me. What am I?",
+      "answer": "A shadow"
+    },
+    {
+      "question": "What starts with T, ends with T, and has T inside it?",
+      "answer": "A teapot"
+    },
+    {
+      "question": "There's a one-story house. Everything in the red house is red, the walls are red, the bathroom is red, the floor is red, the kitchen is red, all of the bedrooms are red. So, what color are the stairs?",
+      "answer": "There are no stairs, it's a one-story house"
+    },
+    {
+      "question": "What can you hold in your left hand but not in your right hand?",
+      "answer": "Your right elbow"
+    },
+    {
+      "question": "What kind of coat can be put on only when wet?",
+      "answer": "A coat of paint"
+    },
+    {
+      "question": "If an electric train is traveling south, which way is the smoke going?",
+      "answer": "There's no smoke, it's an electric train"
+    },
+    {
+      "question": "What kind of room has no walls or corners?",
+      "answer": "A mushroom"
+    },
+    {
+      "question": "What do the numbers 11, 69, and 88 all have in common?",
+      "answer": "They all read the same way when placed upside down"
+    },
+    {
+      "question": "I have no wings, but I can fly. And I have no eyes, but I can cry. What am I?",
+      "answer": "A cloud"
+    },
+    {
+      "question": "I'm light as a feather, but even the world's strongest man couldn't hold me for much longer than a minute. What am I?",
+      "answer": "Breath"
+    },
+    {
+      "question": "What can jump higher than a building?",
+      "answer": "Anything that can jump—buildings don't jump!"
+    },
+    {
+      "question": "An elephant in Africa is called Lala. An elephant in Asia is called Lulu. What do you call an elephant in Antarctica?",
+      "answer": "Lost"
+    },
+    {
+      "question": "Imagine you are in a room with no windows or doors. How will you get out?",
+      "answer": "Stop imagining"
+    },
+    {
+      "question": "A group of bunnies were having a birthday party. What kind of music were they listening to?",
+      "answer": "Hip hop music"
+    },
+    {
+      "question": "Where would you take a sick boat?",
+      "answer": "To the dock"
+    },
+    {
+      "question": "I'm orange, I wear a green hat and I sound like a parrot. What am I?",
+      "answer": "A carrot"
+    },
+    {
+      "question": "What fruit can you never cheer up?",
+      "answer": "A blueberry"
+    },
+    {
+      "question": "What did the zero say to the eight?",
+      "answer": "Nice belt!"
+    },
+    {
+      "question": "What do you get if you cross a vampire and a snowman?",
+      "answer": "Frostbite"
+    },
+    {
+      "question": "What do elves learn at school?",
+      "answer": "The Elf-abet"
+    },
+    {
+      "question": "What does a ghost use to wash its hair?",
+      "answer": "Sham-boo"
+    },
+    {
+      "question": "What has a head but no brain?",
+      "answer": "A lettuce"
+    },
+    {
+      "question": "Most people think of me as money. But when they find me in the water, they won't get any money out of me. What am I?",
+      "answer": "A river bank"
+    },
+    {
+      "question": "What question can you never answer yes to?",
+      "answer": "Are you asleep yet?"
+    },
+    {
+      "question": "What kind of band never plays music?",
+      "answer": "A rubber band"
+    },
+    {
+      "question": "What can be cracked, made, told, and played?",
+      "answer": "A joke"
+    },
+    {
+      "question": "What jumps when it walks and sits when it stands?",
+      "answer": "A kangaroo"
+    },
+    {
+      "question": "I sleep during the day and fly at night, but I have no feathers to aid my flight. What am I?",
+      "answer": "A bat"
+    },
+    {
+      "question": "I can honk without using a horn. What am I?",
+      "answer": "A goose"
+    },
+    {
+      "question": "Why do cats make good warriors?",
+      "answer": "Because they've got 9 lives"
+    },
+    {
+      "question": "The English alphabet goes from A to Z but my name goes from Z to A. What am I?",
+      "answer": "A zebra"
+    },
+    {
+      "question": "I am the fastest animal but cannot climb the tree. What am I?",
+      "answer": "A cheetah"
+    },
+    {
+      "question": "I have horns but I can't beep. I like to bleat but I'm not a sheep. What am I?",
+      "answer": "A goat"
+    },
+    {
+      "question": "I hide my treasure in the ground, my tail is big and fluffy. If you spot me in a tree, please don't call me scruffy. What am I?",
+      "answer": "A squirrel"
+    },
+    {
+      "question": "I live in a bowl. I can swim. I have a tail. I also have fins and big eyes. What am I?",
+      "answer": "A goldfish"
+    },
+    {
+      "question": "I have a hole in my back and legs I lack. I live where I can't breathe and I eat without teeth. What am I?",
+      "answer": "A whale"
+    },
+    {
+      "question": "I have a thousand needles but I do not sew. What am I?",
+      "answer": "A porcupine"
+    },
+    {
+      "question": "I am the beginning of everything, the end of everywhere. I'm the beginning of eternity, the end of time and space. What am I?",
+      "answer": "The letter E"
+    },
+    {
+      "question": "What is in seasons, seconds, centuries and minutes but not in decades, years or days?",
+      "answer": "The letter N"
+    },
+    {
+      "question": "How many letters are in the alphabet?",
+      "answer": "11 letters (in the phrase 'the alphabet')"
+    },
+    {
+      "question": "What happens once in a minute, twice in a moment but never in one thousand years?",
+      "answer": "The letter M"
+    },
+    {
+      "question": "What five-letter word becomes shorter when you add two letters to it?",
+      "answer": "Short"
+    },
+    {
+      "question": "What word begins and ends with an E but only has one letter?",
+      "answer": "Envelope"
+    },
+    {
+      "question": "Which letter of the alphabet has the most water?",
+      "answer": "The letter C"
+    },
+    {
+      "question": "I come in many colors, so beautiful and bright, I turn homes into a beautiful sight. What am I?",
+      "answer": "Christmas lights"
+    },
+    {
+      "question": "Which one of Santa's reindeer can be seen on Valentine's day?",
+      "answer": "Cupid"
+    },
+    {
+      "question": "What kind of ball doesn't bounce?",
+      "answer": "A snowball"
+    },
+    {
+      "question": "How does a snowman lose weight?",
+      "answer": "He waits for the weather to get warmer"
+    },
+    {
+      "question": "Why do mummies like Christmas so much?",
+      "answer": "Because of all the wrapping"
+    },
+    {
+      "question": "Santa has one neighborhood left to visit on his way to the North Pole. In that neighborhood, there's a blue house made of gingerbread, a red house made of peppermint, and a white house made of vanilla. If Santa flies to the blue house first, then to the red house and then to the white house, where does he go next?",
+      "answer": "He goes back to the North Pole"
+    },
+    {
+      "question": "I fall but I never get hurt. What am I?",
+      "answer": "Snow"
+    },
+    {
+      "question": "Why were the little ghosts so successful in Little League?",
+      "answer": "They had plenty of team spirit"
+    },
+    {
+      "question": "How do you fix a damaged jack-o-lantern?",
+      "answer": "You use a pumpkin patch"
+    },
+    {
+      "question": "I protect, I stand tall. My goal is to strike fear in all. What am I?",
+      "answer": "A scarecrow"
+    },
+    {
+      "question": "I have a body, arms, legs and a head, but have no heart nor no guts. What am I?",
+      "answer": "A skeleton"
+    },
+    {
+      "question": "Often buried with fabulous wealth I'm often called wrapped up in myself. What am I?",
+      "answer": "A mummy"
+    }
+  ]
+}
