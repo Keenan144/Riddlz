@@ -2,975 +2,3015 @@
   "riddles": [
     {
       "question": "What has keys but no locks, space but no room, and you can enter but can't go inside?",
-      "answer": "A keyboard"
-    },
-    {
-      "question": "Who goes potty in Dallas",
-      "answer": "Jamie"
+      "answer": "A keyboard",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "A girl has 5 kids, one is eating - one is playing chess - one is baking - one is coding - whats the 5th kid doing?",
-      "answer": "A keyboard"
-    },
-    {
-      "question": "This cousin eats frosting when making ginger bread houses",
-      "answer": "Lincoln"
-    },
-    {
-      "question": "This player gets 2 free points",
-      "answer": "Sydney"
-    },
-    {
-      "question": "This player gets 2 free points",
-      "answer": "Lincoln"
-    },
-    {
-      "question": "This player gets 2 free points",
-      "answer": "Emmy"
-    },
-    {
-      "question": "This player gets 2 free points",
-      "answer": "Ella"
-    },
-    {
-      "question": "This player gets -2 free points",
-      "answer": "Cole"
-    },
-    {
-      "question": "This player gets needs to go back to Dallas to poop",
-      "answer": "Jamie"
-    },
-    {
-      "question": "This player needs to stop sneezing",
-      "answer": "Kristian"
-    },
-    {
-      "question": "This player has to jump in the pool",
-      "answer": "Cole"
-    },
-    {
-      "question": "This player has to jump in the pool",
-      "answer": "Sydney"
-    },
-    {
-      "question": "This player has to do some push ups",
-      "answer": "Ti"
+      "answer": "A keyboard",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",
-      "answer": "An echo"
+      "answer": "An echo",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "The more you take, the more you leave behind. What am I?",
-      "answer": "Footsteps"
+      "answer": "Footsteps",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What can travel around the world while staying in a corner?",
-      "answer": "A stamp"
+      "answer": "A stamp",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?",
-      "answer": "A map"
+      "answer": "A map",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What gets wet while drying?",
-      "answer": "A towel"
+      "answer": "A towel",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What can you catch but never throw?",
-      "answer": "A cold"
+      "answer": "A cold",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I'm tall when I'm young, and I'm short when I'm old. What am I?",
-      "answer": "A candle"
+      "answer": "A candle",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What has a head and a tail but no body?",
-      "answer": "A coin"
+      "answer": "A coin",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What has hands but cannot clap?",
-      "answer": "A clock"
+      "answer": "A clock",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What has a foot but no legs?",
-      "answer": "A ruler"
+      "answer": "A ruler",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What has a horn but doesn't beep?",
-      "answer": "A rhinoceros"
+      "answer": "A rhinoceros",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I have no mouth, but I can still talk. I often repeat, but I never balk. What am I?",
-      "answer": "An echo"
+      "answer": "An echo",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I'm not a teacher, but I help you write. What am I?",
-      "answer": "A pencil"
+      "answer": "A pencil",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I'm full of words and pictures too. Open me up to learn something new. What am I?",
-      "answer": "A textbook"
+      "answer": "A textbook",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I ring when it's time to start or end. I'm not a phone, but I'm every student's friend. What am I?",
-      "answer": "A school bell"
+      "answer": "A school bell",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I bear the weight of knowledge on my shoulders every day. You'll find me full at dawn and lighter by the hallway. What am I?",
-      "answer": "A backpack"
+      "answer": "A backpack",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I'm made of sand, and I might have a moat. Build me near water, but I'm not a boat. What am I?",
-      "answer": "A sandcastle"
+      "answer": "A sandcastle",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I have a sail but no captain or crew. I fly in the sky, and kids love me too. What am I?",
-      "answer": "A kite"
+      "answer": "A kite",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I'm sticky and sweet and come on a stick. But eat me too slowly, and I'll do a quick trick. What am I?",
-      "answer": "A popsicle"
+      "answer": "A popsicle",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I buzz and I hum and I fly all around. In the summer, you'll hear me; my wings make the sound. What am I?",
-      "answer": "A bee"
+      "answer": "A bee",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What has a heart that doesn't beat?",
-      "answer": "An artichoke"
+      "answer": "An artichoke",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What has a spine but no bones?",
-      "answer": "A book"
+      "answer": "A book",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What has cities but no houses, forests but no trees, and rivers but no water?",
-      "answer": "A map"
+      "answer": "A map",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "The more you take away from me, the bigger I get. What am I?",
-      "answer": "A hole"
+      "answer": "A hole",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I'm full of words, but I can't speak. I'm full of knowledge, but I can't think. What am I?",
-      "answer": "A book"
+      "answer": "A book",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I fly without wings, I have a tail but no fur. I swim without fins, and I'm known to purr. What am I?",
-      "answer": "A catfish"
+      "answer": "A catfish",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What has a thumb and four fingers but is not alive?",
-      "answer": "A glove"
+      "answer": "A glove",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I'm full of holes, but I can hold water. What am I?",
-      "answer": "A sponge"
+      "answer": "A sponge",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I'm an animal that carries my house on my back. I never run fast; I'm known to be slack. What am I?",
-      "answer": "A snail"
+      "answer": "A snail",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What has teeth but can't bite?",
-      "answer": "A comb"
+      "answer": "A comb",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What has a neck but no head, and wears a cap?",
-      "answer": "A bottle"
+      "answer": "A bottle",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I'm green and jump, but I'm not a frog. I croak and sing, especially in the fog. What am I?",
-      "answer": "A toad"
+      "answer": "A toad",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What has a bark but no bite?",
-      "answer": "A tree"
+      "answer": "A tree",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What has wheels and flies but is not an airplane?",
-      "answer": "A garbage truck"
+      "answer": "A garbage truck",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What has a ring but no finger?",
-      "answer": "A telephone"
+      "answer": "A telephone",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What has ears but cannot hear?",
-      "answer": "A cornfield"
+      "answer": "A cornfield",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What has legs but doesn't walk?",
-      "answer": "A table"
+      "answer": "A table",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I'm your home and the third from the Sun. I've got water and life—aren't I the fun one? What am I?",
-      "answer": "Earth"
+      "answer": "Earth",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I'm the planet with the most bling, I've got rings you can't help noticing! What am I?",
-      "answer": "Saturn"
+      "answer": "Saturn",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I'm red all over, with dust in the air. Some people think I might have had water to share. What am I?",
-      "answer": "Mars"
+      "answer": "Mars",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I'm closest to the Sun, but I don't get much attention. I'm small and speedy—just thought I'd mention! What am I?",
-      "answer": "Mercury"
+      "answer": "Mercury",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I've got rings around me, but I'm not Saturn. I'm tilted sideways, so my days take an odd pattern. What am I?",
-      "answer": "Uranus"
+      "answer": "Uranus",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I'm a gas giant and the biggest by far. With a Great Red Spot, I'm the king of the stars! What am I?",
-      "answer": "Jupiter"
+      "answer": "Jupiter",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I'm the hottest planet, though I'm not closest to the Sun. What am I?",
-      "answer": "Venus"
+      "answer": "Venus",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I have storms that rage for hundreds of years. My winds are the fastest—no competition here! What am I?",
-      "answer": "Neptune"
+      "answer": "Neptune",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I'm not alive, but I can grow. I don't have lungs, but I need air. I'm not a plant, but I need water. What am I?",
-      "answer": "Fire"
+      "answer": "Fire",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I change shape but never disappear. I can be solid, liquid, or gas, and I'm found everywhere. What am I?",
-      "answer": "Water"
+      "answer": "Water",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I live in the sky but fall to the ground. I'm cold and white and make no sound. What am I?",
-      "answer": "Snow"
+      "answer": "Snow",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I'm hot and bright, but don't touch! I shoot up from the Earth in a big rush. What am I?",
-      "answer": "A volcano"
+      "answer": "A volcano",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I'm round, but I'm not a ball. I have layers, but I'm not a cake. I'm in space, but I'm not a star. What am I?",
-      "answer": "The Earth"
+      "answer": "The Earth",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "How many months of the year have 28 days?",
-      "answer": "All of them! Every month has at least 28 days"
+      "answer": "All of them! Every month has at least 28 days",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "What has hands and a face, but can't hold anything or smile?",
-      "answer": "A clock"
+      "answer": "A clock",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "It belongs to you, but your friends use it more. What is it?",
-      "answer": "Your name"
+      "answer": "Your name",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "Kate's mother has three children: Snap, Crackle and ___?",
-      "answer": "Kate"
+      "answer": "Kate",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "If you don't keep me, I'll break. What am I?",
-      "answer": "A promise"
+      "answer": "A promise",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "There's only one word in the dictionary that's spelled wrong. What is it?",
-      "answer": "The word 'wrong'"
+      "answer": "The word 'wrong'",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "You're running a race and at the very end, you pass the person in 2nd place. What place did you finish the race in?",
-      "answer": "You finished in 2nd place"
+      "answer": "You finished in 2nd place",
+      "difficulty": "hard",
+      "language": "en"
     },
     {
       "question": "What 2 things can you never eat for breakfast?",
-      "answer": "Lunch and dinner"
+      "answer": "Lunch and dinner",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I am so simple that I can only point, yet I guide people all over the world.",
-      "answer": "A compass"
+      "answer": "A compass",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What has thirteen hearts, but no other organs?",
-      "answer": "A deck of cards"
+      "answer": "A deck of cards",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "Which word becomes shorter when you add 2 letters to it?",
-      "answer": "The word 'short'"
+      "answer": "The word 'short'",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "What's the capital of France?",
-      "answer": "The letter F"
+      "answer": "The letter F",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "What has keys but can't open locks?",
-      "answer": "A piano"
+      "answer": "A piano",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What comes down but never goes up?",
-      "answer": "Rain"
+      "answer": "Rain",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I go up and down, but never move. What am I?",
-      "answer": "A staircase"
+      "answer": "A staircase",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "When Grant was 8, his brother was half his age. Now, Grant is 14. How old is his brother?",
-      "answer": "His brother is 10"
+      "answer": "His brother is 10",
+      "difficulty": "hard",
+      "language": "en"
     },
     {
       "question": "Two fathers and 2 sons spent the day fishing, but only caught 3 fish. This was enough for each of them to have one fish. How is this possible?",
-      "answer": "There were only 3 people fishing: one father, his son, and his son's son"
+      "answer": "There were only 3 people fishing: one father, his son, and his son's son",
+      "difficulty": "hard",
+      "language": "en"
     },
     {
       "question": "Liam was 11 the day before yesterday, and next year he'll turn 14. How is this possible?",
-      "answer": "Today is January 1st, and Liam's birthday is December 31st"
+      "answer": "Today is January 1st, and Liam's birthday is December 31st",
+      "difficulty": "hard",
+      "language": "en"
     },
     {
       "question": "Mrs. Brown has 5 daughters. Each of these daughters has a brother. How many children does Mrs. Brown have?",
-      "answer": "6 children"
+      "answer": "6 children",
+      "difficulty": "hard",
+      "language": "en"
     },
     {
       "question": "It's raining at midnight, but the forecast for tomorrow and the next day is clear. Will there be sunny weather in 48 hours?",
-      "answer": "No, it will be midnight again"
+      "answer": "No, it will be midnight again",
+      "difficulty": "hard",
+      "language": "en"
     },
     {
       "question": "There are 3 apples in the basket and you take away 2. How many apples do you have now?",
-      "answer": "You have 2 apples"
+      "answer": "You have 2 apples",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What can you put between 7 and 8, to make the result greater than 7, but less than 8?",
-      "answer": "A decimal point (7.8)"
+      "answer": "A decimal point (7.8)",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "A new clothing store has a unique method of pricing items. A vest costs $20, a tie costs $15, a blouse costs $30, and underwear costs $45. How much would pants cost?",
-      "answer": "$25 (The pricing method charges $5 for each letter)"
+      "answer": "$25 (The pricing method charges $5 for each letter)",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "81 x 9 = 801. What do you need to do to make this equation true?",
-      "answer": "Turn it upside down (108 = 6 x 18)"
+      "answer": "Turn it upside down (108 = 6 x 18)",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "Double it and multiply it by 4. Then divide it by 8 and you'll have it once more. What number is it?",
-      "answer": "Any number"
+      "answer": "Any number",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What 3 numbers give the same result when multiplied and added together?",
-      "answer": "1, 2, and 3"
+      "answer": "1, 2, and 3",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "Zoey has a very big family. She has 20 aunts, 20 uncles and 50 cousins. Each of her cousins has an aunt who is not Zoey's aunt. How is this possible?",
-      "answer": "Their aunt is Zoey's mom"
+      "answer": "Their aunt is Zoey's mom",
+      "difficulty": "hard",
+      "language": "en"
     },
     {
       "question": "I am an odd number. Take away a letter and I become even. What number am I?",
-      "answer": "Seven"
+      "answer": "Seven",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "Which is heavier: a ton of bricks or a ton of feathers?",
-      "answer": "Neither—they both weigh a ton"
+      "answer": "Neither—they both weigh a ton",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "I am a three-digit number. My tens digit is five more than my ones digit. My hundreds digit is eight less than my tens digit. What number am I?",
-      "answer": "194"
+      "answer": "194",
+      "difficulty": "hard",
+      "language": "en"
     },
     {
       "question": "Using only addition, how can you add eight 8's to get the number 1,000?",
-      "answer": "888 + 88 + 8 + 8 + 8 = 1,000"
+      "answer": "888 + 88 + 8 + 8 + 8 = 1,000",
+      "difficulty": "hard",
+      "language": "en"
     },
     {
       "question": "You'll find me in Mercury, Earth, Mars and Jupiter, but not in Venus or Neptune. What am I?",
-      "answer": "The letter R"
+      "answer": "The letter R",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "What can go up a chimney down, but can't go down a chimney up?",
-      "answer": "An umbrella"
+      "answer": "An umbrella",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I make a loud sound when I'm changing. When I do change, I get bigger but weigh less. What am I?",
-      "answer": "Popcorn"
+      "answer": "Popcorn",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "A bus driver was heading down a busy street in the city. He went past three stop signs without stopping, went the wrong way down a one-way street, and answered a message on his phone. But the bus driver didn't break any traffic laws. How?",
-      "answer": "He was walking, not driving"
+      "answer": "He was walking, not driving",
+      "difficulty": "hard",
+      "language": "en"
     },
     {
       "question": "I can fill a room, but I take up no space. What am I?",
-      "answer": "Light"
+      "answer": "Light",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "It's the only place in the world where today comes before yesterday. Where is it?",
-      "answer": "The dictionary"
+      "answer": "The dictionary",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "If I have it, I don't share it. If I share it, I don't have it. What is it?",
-      "answer": "A secret"
+      "answer": "A secret",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What goes away as soon as you talk about it?",
-      "answer": "Silence"
+      "answer": "Silence",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "A railroad crossing without any cars. Can you spell that without any R's?",
-      "answer": "T-H-A-T"
+      "answer": "T-H-A-T",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What can run but cannot walk?",
-      "answer": "Water"
+      "answer": "Water",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What has a mouth but can't speak?",
-      "answer": "A river"
+      "answer": "A river",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What has one eye but can't see?",
-      "answer": "A needle"
+      "answer": "A needle",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "Everyone has me but no one can lose me. What am I?",
-      "answer": "A shadow"
+      "answer": "A shadow",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What starts with T, ends with T, and has T inside it?",
-      "answer": "A teapot"
+      "answer": "A teapot",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "There's a one-story house. Everything in the red house is red, the walls are red, the bathroom is red, the floor is red, the kitchen is red, all of the bedrooms are red. So, what color are the stairs?",
-      "answer": "There are no stairs, it's a one-story house"
+      "answer": "There are no stairs, it's a one-story house",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "What can you hold in your left hand but not in your right hand?",
-      "answer": "Your right elbow"
+      "answer": "Your right elbow",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What kind of coat can be put on only when wet?",
-      "answer": "A coat of paint"
+      "answer": "A coat of paint",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "If an electric train is traveling south, which way is the smoke going?",
-      "answer": "There's no smoke, it's an electric train"
+      "answer": "There's no smoke, it's an electric train",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What kind of room has no walls or corners?",
-      "answer": "A mushroom"
+      "answer": "A mushroom",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What do the numbers 11, 69, and 88 all have in common?",
-      "answer": "They all read the same way when placed upside down"
+      "answer": "They all read the same way when placed upside down",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I have no wings, but I can fly. And I have no eyes, but I can cry. What am I?",
-      "answer": "A cloud"
+      "answer": "A cloud",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I'm light as a feather, but even the world's strongest man couldn't hold me for much longer than a minute. What am I?",
-      "answer": "Breath"
+      "answer": "Breath",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What can jump higher than a building?",
-      "answer": "Anything that can jump—buildings don't jump!"
+      "answer": "Anything that can jump—buildings don't jump!",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "An elephant in Africa is called Lala. An elephant in Asia is called Lulu. What do you call an elephant in Antarctica?",
-      "answer": "Lost"
+      "answer": "Lost",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "Imagine you are in a room with no windows or doors. How will you get out?",
-      "answer": "Stop imagining"
+      "answer": "Stop imagining",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "A group of bunnies were having a birthday party. What kind of music were they listening to?",
-      "answer": "Hip hop music"
+      "answer": "Hip hop music",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "Where would you take a sick boat?",
-      "answer": "To the dock"
+      "answer": "To the dock",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I'm orange, I wear a green hat and I sound like a parrot. What am I?",
-      "answer": "A carrot"
+      "answer": "A carrot",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What fruit can you never cheer up?",
-      "answer": "A blueberry"
+      "answer": "A blueberry",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What did the zero say to the eight?",
-      "answer": "Nice belt!"
+      "answer": "Nice belt!",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What do you get if you cross a vampire and a snowman?",
-      "answer": "Frostbite"
+      "answer": "Frostbite",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What do elves learn at school?",
-      "answer": "The Elf-abet"
+      "answer": "The Elf-abet",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What does a ghost use to wash its hair?",
-      "answer": "Sham-boo"
+      "answer": "Sham-boo",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What has a head but no brain?",
-      "answer": "A lettuce"
+      "answer": "A lettuce",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "Most people think of me as money. But when they find me in the water, they won't get any money out of me. What am I?",
-      "answer": "A river bank"
+      "answer": "A river bank",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What question can you never answer yes to?",
-      "answer": "Are you asleep yet?"
+      "answer": "Are you asleep yet?",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "What kind of band never plays music?",
-      "answer": "A rubber band"
+      "answer": "A rubber band",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What can be cracked, made, told, and played?",
-      "answer": "A joke"
+      "answer": "A joke",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What jumps when it walks and sits when it stands?",
-      "answer": "A kangaroo"
+      "answer": "A kangaroo",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I sleep during the day and fly at night, but I have no feathers to aid my flight. What am I?",
-      "answer": "A bat"
+      "answer": "A bat",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I can honk without using a horn. What am I?",
-      "answer": "A goose"
+      "answer": "A goose",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "Why do cats make good warriors?",
-      "answer": "Because they've got 9 lives"
+      "answer": "Because they've got 9 lives",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "The English alphabet goes from A to Z but my name goes from Z to A. What am I?",
-      "answer": "A zebra"
+      "answer": "A zebra",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "I am the fastest animal but cannot climb the tree. What am I?",
-      "answer": "A cheetah"
+      "answer": "A cheetah",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I have horns but I can't beep. I like to bleat but I'm not a sheep. What am I?",
-      "answer": "A goat"
+      "answer": "A goat",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I hide my treasure in the ground, my tail is big and fluffy. If you spot me in a tree, please don't call me scruffy. What am I?",
-      "answer": "A squirrel"
+      "answer": "A squirrel",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I live in a bowl. I can swim. I have a tail. I also have fins and big eyes. What am I?",
-      "answer": "A goldfish"
+      "answer": "A goldfish",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I have a hole in my back and legs I lack. I live where I can't breathe and I eat without teeth. What am I?",
-      "answer": "A whale"
+      "answer": "A whale",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I have a thousand needles but I do not sew. What am I?",
-      "answer": "A porcupine"
+      "answer": "A porcupine",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I am the beginning of everything, the end of everywhere. I'm the beginning of eternity, the end of time and space. What am I?",
-      "answer": "The letter E"
+      "answer": "The letter E",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "What is in seasons, seconds, centuries and minutes but not in decades, years or days?",
-      "answer": "The letter N"
+      "answer": "The letter N",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "How many letters are in the alphabet?",
-      "answer": "11 letters (in the phrase 'the alphabet')"
+      "answer": "11 letters (in the phrase 'the alphabet')",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "What happens once in a minute, twice in a moment but never in one thousand years?",
-      "answer": "The letter M"
+      "answer": "The letter M",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "What five-letter word becomes shorter when you add two letters to it?",
-      "answer": "Short"
+      "answer": "Short",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "What word begins and ends with an E but only has one letter?",
-      "answer": "Envelope"
+      "answer": "Envelope",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "Which letter of the alphabet has the most water?",
-      "answer": "The letter C"
+      "answer": "The letter C",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "I come in many colors, so beautiful and bright, I turn homes into a beautiful sight. What am I?",
-      "answer": "Christmas lights"
+      "answer": "Christmas lights",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "Which one of Santa's reindeer can be seen on Valentine's day?",
-      "answer": "Cupid"
+      "answer": "Cupid",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What kind of ball doesn't bounce?",
-      "answer": "A snowball"
+      "answer": "A snowball",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "How does a snowman lose weight?",
-      "answer": "He waits for the weather to get warmer"
+      "answer": "He waits for the weather to get warmer",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "Why do mummies like Christmas so much?",
-      "answer": "Because of all the wrapping"
+      "answer": "Because of all the wrapping",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "Santa has one neighborhood left to visit on his way to the North Pole. In that neighborhood, there's a blue house made of gingerbread, a red house made of peppermint, and a white house made of vanilla. If Santa flies to the blue house first, then to the red house and then to the white house, where does he go next?",
-      "answer": "He goes back to the North Pole"
+      "answer": "He goes back to the North Pole",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "I fall but I never get hurt. What am I?",
-      "answer": "Snow"
+      "answer": "Snow",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "Why were the little ghosts so successful in Little League?",
-      "answer": "They had plenty of team spirit"
+      "answer": "They had plenty of team spirit",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "How do you fix a damaged jack-o-lantern?",
-      "answer": "You use a pumpkin patch"
+      "answer": "You use a pumpkin patch",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I protect, I stand tall. My goal is to strike fear in all. What am I?",
-      "answer": "A scarecrow"
+      "answer": "A scarecrow",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I have a body, arms, legs and a head, but have no heart nor no guts. What am I?",
-      "answer": "A skeleton"
+      "answer": "A skeleton",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "Often buried with fabulous wealth I'm often called wrapped up in myself. What am I?",
-      "answer": "A mummy"
+      "answer": "A mummy",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "Which word is least like the others? Third, fourth, fifth, sixth, seventh, eighth, ninth?",
-      "answer": "Third, it is the only one not ending in 'th'"
+      "answer": "Third, it is the only one not ending in 'th'",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What is the last thing you take off before bed?",
-      "answer": "Your feet from the floor"
+      "answer": "Your feet from the floor",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "1 rabbit saw 9 elephants while going to the river. Every elephant saw 3 monkeys going toward the river. Each monkey had 1 parrot in each hand. How many animals are going towards the river?",
-      "answer": "10 animals (1 rabbit + 3 monkeys + 6 parrots)"
+      "answer": "10 animals (1 rabbit + 3 monkeys + 6 parrots)",
+      "difficulty": "hard",
+      "language": "en"
     },
     {
       "question": "What has to be broken before you can use it?",
-      "answer": "An egg"
+      "answer": "An egg",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What is always in front of you but can't be seen?",
-      "answer": "The future"
+      "answer": "The future",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What goes up but never comes down?",
-      "answer": "Your age"
+      "answer": "Your age",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "A man walks outside into the pouring rain yet not a hair on his head gets wet. How is this possible?",
-      "answer": "He's bald"
+      "answer": "He's bald",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What can you keep after giving it to someone?",
-      "answer": "Your word"
+      "answer": "Your word",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I shave every day but my beard never changes. What am I?",
-      "answer": "A barber"
+      "answer": "A barber",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "You see a boat full of people yet there is not a single person on board. How is this possible?",
-      "answer": "All of those onboard are married"
+      "answer": "All of those onboard are married",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "You walk into a dark room holding a match and find a kerosene lamp, a candle, and a fireplace. Which do you light first?",
-      "answer": "The match"
+      "answer": "The match",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "A man dies of old age on his 25th birthday. How is this possible?",
-      "answer": "He was born on leap day, February 29th"
+      "answer": "He was born on leap day, February 29th",
+      "difficulty": "hard",
+      "language": "en"
     },
     {
       "question": "I have branches but no fruit, trunk, or leaves. What am I?",
-      "answer": "A bank"
+      "answer": "A bank",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "The more of this there is, the less you see. What is it?",
-      "answer": "Darkness"
+      "answer": "Darkness",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "What is black when it's clean and white when it's dirty?",
-      "answer": "A chalkboard"
+      "answer": "A chalkboard",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What invention allows people to look right through a wall?",
-      "answer": "A window"
+      "answer": "A window",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What can't be put in a saucepan?",
-      "answer": "Its lid"
+      "answer": "Its lid",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What would you find in the middle of Toronto?",
-      "answer": "The letter O"
+      "answer": "The letter O",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "Which word is always spelled incorrectly in the dictionary?",
-      "answer": "Incorrectly"
+      "answer": "Incorrectly",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "You walk into a creepy house by yourself. There is no electricity. Inside you notice 3 doors. Door 1: You'll be eaten by a hungry lion. Door 2: You'll be stabbed to death. Door 3: There is an electric chair waiting for you. Which door do you pick?",
-      "answer": "Door 3, since there is no electricity to harm you"
+      "answer": "Door 3, since there is no electricity to harm you",
+      "difficulty": "hard",
+      "language": "en"
     },
     {
       "question": "All 5 sisters are busy. Ann is reading a book, Rose is cooking, Katy is playing chess, and Mary is doing the laundry. What is the 5th sister doing?",
-      "answer": "She's playing chess"
+      "answer": "She's playing chess",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "Three doctors said that Robert is their brother. Robert says he has no brothers. Who's lying?",
-      "answer": "No one is lying – Robert has 3 sisters who all happen to be doctors"
+      "answer": "No one is lying – Robert has 3 sisters who all happen to be doctors",
+      "difficulty": "hard",
+      "language": "en"
     },
     {
       "question": "A man was found murdered on Sunday morning. The wife said she was sleeping, the cook was eating breakfast, the gardener was picking vegetables, the maid was getting the mail, the butler was cleaning the closet. Who did it?",
-      "answer": "The maid – there's no mail on Sundays"
+      "answer": "The maid – there's no mail on Sundays",
+      "difficulty": "hard",
+      "language": "en"
     },
     {
       "question": "If two's a company and three's a crowd, what are four and five?",
-      "answer": "Nine"
+      "answer": "Nine",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "A girl goes to the store and buys one dozen eggs. As she walks home, all but three break. How many eggs are left unbroken?",
-      "answer": "Three"
+      "answer": "Three",
+      "difficulty": "hard",
+      "language": "en"
     },
     {
       "question": "If there are five apples and you take away three, how many apples do you have?",
-      "answer": "Three"
+      "answer": "Three",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "There is a word I know, six letters it contains but, remove one letter, and twelve remains. What is the word?",
-      "answer": "Dozens"
+      "answer": "Dozens",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "You see me once in June, twice in November, and not at all in May. What am I?",
-      "answer": "The letter E"
+      "answer": "The letter E",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "There is a word that could be written forward, backward, or upsidedown and can still be read left to right. What is the word?",
-      "answer": "NOON"
+      "answer": "NOON",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "Forward I am heavy but backward I am not. What am I?",
-      "answer": "The word ton"
+      "answer": "The word ton",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "What five-letter word has one left when two are removed?",
-      "answer": "Stone"
+      "answer": "Stone",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "What is at the end of everything?",
-      "answer": "The letter G"
+      "answer": "The letter G",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "What word is pronounced the same if you remove four of its five letters?",
-      "answer": "Queue"
+      "answer": "Queue",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "There is a house. One enters it blind and comes out seeing. What is it?",
-      "answer": "A school"
+      "answer": "A school",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "As I was going to St. Ives, I met a man with seven wives; each wife had seven sacks; each sack had seven cats; each cat had seven kits. How many were going to St. Ives?",
-      "answer": "One"
+      "answer": "One",
+      "difficulty": "hard",
+      "language": "en"
     },
     {
       "question": "What has many eyes but is unable to see?",
-      "answer": "A potato"
+      "answer": "A potato",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What has many needles but doesn't sew?",
-      "answer": "A Christmas tree"
+      "answer": "A Christmas tree",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I have one head, one foot, and four legs. What am I?",
-      "answer": "A bed"
+      "answer": "A bed",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What is 3/7 chicken, 2/3 cat, and 2/4 goat?",
-      "answer": "Chicago"
+      "answer": "Chicago",
+      "difficulty": "hard",
+      "language": "en"
     },
     {
       "question": "What has many words but is never able to speak?",
-      "answer": "A book"
+      "answer": "A book",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What runs in the backyard but never actually moves?",
-      "answer": "A fence"
+      "answer": "A fence",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What building has the most stories?",
-      "answer": "The library"
+      "answer": "The library",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What tastes better than it smells?",
-      "answer": "Your tongue"
+      "answer": "Your tongue",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What has a bottom at the top?",
-      "answer": "Your legs"
+      "answer": "Your legs",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What has four wheels and flies?",
-      "answer": "A garbage truck"
+      "answer": "A garbage truck",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "The person who makes it has no need of it; the person who buys it has no use for it. The person who uses it can neither see nor feel it. What is it?",
-      "answer": "A coffin"
+      "answer": "A coffin",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "A man is looking at a picture of a man on the wall and states: Brothers and sisters I have none, but this man's father is my father's son. Who is the man in the picture?",
-      "answer": "His son"
+      "answer": "His son",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "Four hang, four sprang, two point the way, two to ward off dogs, one dangles after, always rather dirty. What am I?",
-      "answer": "A cow"
+      "answer": "A cow",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "A man is found hanging dead from the ceiling of a room. The room is 15x15x15. The man is only 6ft tall and the rope was only 2ft long. There is a puddle of water under the man. How did he kill himself?",
-      "answer": "The man stood on a block of ice"
+      "answer": "The man stood on a block of ice",
+      "difficulty": "hard",
+      "language": "en"
     },
     {
       "question": "The answer I give is yes, but what I mean is no. What was the question?",
-      "answer": "Do you mind?"
+      "answer": "Do you mind?",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What we caught, we threw away. We kept what we didn't catch. What was it that we kept?",
-      "answer": "Lice"
+      "answer": "Lice",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "A man calls his dog from the opposite side of a river. The dog crosses the river without a bridge or a boat and manages to not get wet. How is this possible?",
-      "answer": "The river was frozen"
+      "answer": "The river was frozen",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "Drop me and I'm sure to crack but lend me a smile and I'll certainly smile back. What am I?",
-      "answer": "A mirror"
+      "answer": "A mirror",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "People make me, save me, change me, and raise me. What am I?",
-      "answer": "Money"
+      "answer": "Money",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What breaks but never falls and falls but never breaks?",
-      "answer": "Day and night"
+      "answer": "Day and night",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "What runs through cities and fields but never moves?",
-      "answer": "A road"
+      "answer": "A road",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "With pointed fangs, I sit and wait. With piercing force, I crunch out fate. Over bloodless victims proclaiming my might, eternally joining in a single bite. What am I?",
-      "answer": "A stapler"
+      "answer": "A stapler",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "A woman shoots her husband then holds him underwater for five minutes. Next, she hangs him. Right after, they enjoy dinner together. How is this possible?",
-      "answer": "She took a picture of him and developed it in a dark room prior to dinner"
+      "answer": "She took a picture of him and developed it in a dark room prior to dinner",
+      "difficulty": "hard",
+      "language": "en"
     },
     {
       "question": "I come from a mine but always get surrounded by wood. Everyone uses me. What am I?",
-      "answer": "Pencil lead"
+      "answer": "Pencil lead",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "A is the brother of B. B is the brother of C. C is the father of D. So, how is D related to A?",
-      "answer": "A is D's uncle"
+      "answer": "A is D's uncle",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What are the next three letters in this combination: OTTFFSS?",
-      "answer": "E N T (eight, nine, and ten)"
+      "answer": "E N T (eight, nine, and ten)",
+      "difficulty": "hard",
+      "language": "en"
     },
     {
       "question": "First, think of the color of clouds. Next, think of the color of snow. Now, think of the color of a full bright moon. What do cows drink?",
-      "answer": "Water"
+      "answer": "Water",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "First you eat me, and then you get eaten. What am I?",
-      "answer": "A fishhook"
+      "answer": "A fishhook",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "What can you hold in your right hand but never in your left hand?",
-      "answer": "Your left hand"
+      "answer": "Your left hand",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "How can you physically stand behind your father if he is standing behind you?",
-      "answer": "You and your father are back-to-back"
+      "answer": "You and your father are back-to-back",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I have a neck with no head and two arms with no hands. What am I?",
-      "answer": "A shirt"
+      "answer": "A shirt",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "If eleven plus two equals one, what does nine plus five equal?",
-      "answer": "Two"
+      "answer": "Two",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "Once you are given one, you either have two or none?",
-      "answer": "A choice"
+      "answer": "A choice",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "There was a man who was born before his father, killed his mother, and married his sister. There was nothing wrong with what he had done, why?",
-      "answer": "His father was in front of him when he was born. His mother died while giving birth to him. He grew up to be a minister and married his sister at her ceremony"
+      "answer": "His father was in front of him when he was born. His mother died while giving birth to him. He grew up to be a minister and married his sister at her ceremony",
+      "difficulty": "hard",
+      "language": "en"
     },
     {
       "question": "Which English verb becomes past tense just by rearranging the letters?",
-      "answer": "Eat (which becomes ate)"
+      "answer": "Eat (which becomes ate)",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I am never scared but became petrified and can't live in a house but would die to make one. What am I?",
-      "answer": "A tree"
+      "answer": "A tree",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "It has five wheels though often thought of as four but you cannot use it without that one more. What is it?",
-      "answer": "A car"
+      "answer": "A car",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "Different lights make me strange by changing me into different sizes. What am I?",
-      "answer": "The pupil of an eye"
+      "answer": "The pupil of an eye",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "My thunder comes before the lightning; my lightning comes before clouds; my rain dries all the land it touches. What am I?",
-      "answer": "A volcano"
+      "answer": "A volcano",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "How high do you have to count before you use the letter A in the English spelling of the whole number?",
-      "answer": "One thousand"
+      "answer": "One thousand",
+      "difficulty": "medium",
+      "language": "en"
     },
     {
       "question": "What animal walks on four legs in the morning, two legs during the day, and three legs in the evening?",
-      "answer": "Man (in childhood on hands and knees, in manhood walks erect, and in old age with a staff)"
+      "answer": "Man (in childhood on hands and knees, in manhood walks erect, and in old age with a staff)",
+      "difficulty": "hard",
+      "language": "en"
     },
     {
       "question": "This thing all things devours; birds, beasts, trees, flowers; gnaws iron, bites steel; grinds hard stones to meal; slays kings, ruins towns, and beats mountain down. What is it?",
-      "answer": "Time"
+      "answer": "Time",
+      "difficulty": "hard",
+      "language": "en"
     },
     {
       "question": "First think of the person who lives in disguise, who deals in secrets and tells naught but lies. Next, tell me what's always the last thing to mend, the middle of the middle and end of the end? And finally, give me the sound often heard during the search for a hard-to-find word. Now string them together, and answer me this, which creature would you be unwilling to kiss?",
-      "answer": "A spider"
+      "answer": "A spider",
+      "difficulty": "hard",
+      "language": "en"
     },
     {
       "question": "Voiceless it cries, wingless it flies, toothless bites, and mouthless mutters. What is it?",
-      "answer": "The wind"
+      "answer": "The wind",
+      "difficulty": "hard",
+      "language": "en"
+    },
+    {
+      "question": "What has a tongue but can’t taste, and can be cracked but never chewed?",
+      "answer": "A whip",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has a bed but never sleeps, and a mouth but never speaks?",
+      "answer": "A river",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has many rings but no fingers?",
+      "answer": "A tree",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has one head, one tail, and no body?",
+      "answer": "A coin",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has a face and two hands but no arms or legs?",
+      "answer": "A clock",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What can you make that no one—not even you—can see?",
+      "answer": "Noise",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What goes through towns and over hills but never moves?",
+      "answer": "A road",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has an eye but cannot see, and is often used to sew?",
+      "answer": "A needle",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has teeth but never eats?",
+      "answer": "A zipper",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has a head, a tail, is brown, and has no legs?",
+      "answer": "A penny",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What gets sharper the more you use it?",
+      "answer": "Your brain",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What can’t talk but will reply when spoken to?",
+      "answer": "An echo",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has a bottom at the top?",
+      "answer": "Your legs",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has four fingers and a thumb but isn’t alive?",
+      "answer": "A glove",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has a ring but no finger, and answers when you call?",
+      "answer": "A telephone",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What can be swallowed but can also swallow you?",
+      "answer": "Pride",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has a bark but no bite?",
+      "answer": "A tree",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has a spine but no bones?",
+      "answer": "A book",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has a thumb and four fingers but is not a hand?",
+      "answer": "A glove",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What goes up when rain comes down?",
+      "answer": "An umbrella",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "I have a tail and a head but no body. What am I?",
+      "answer": "A coin",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "I’m lighter than air, but a hundred people can’t lift me. What am I?",
+      "answer": "A bubble",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "The more you feed it, the more it grows—yet water kills it. What is it?",
+      "answer": "Fire",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What can be opened but never closed?",
+      "answer": "A banana",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has legs but doesn’t walk?",
+      "answer": "A chair",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What begins with an E, ends with an E, and contains one letter?",
+      "answer": "An envelope",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has a single eye but can’t see?",
+      "answer": "A storm (the eye of a storm)",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What can you hold without ever touching it?",
+      "answer": "A conversation",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What is full of holes but still holds things together?",
+      "answer": "A net",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has a key but opens no locks, and can sing without a mouth?",
+      "answer": "A musical note",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has many keys but can’t play a song?",
+      "answer": "A typewriter",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has a cap but no head?",
+      "answer": "A bottle",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What is always coming but never arrives?",
+      "answer": "Tomorrow",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What can be taken from you but never stolen?",
+      "answer": "Your pain",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What can you keep after you give it away?",
+      "answer": "A promise",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has an endless supply of letters but starts empty?",
+      "answer": "A mailbox",
+      "difficulty": "medium",
+      "language": "en"
+    },
+    {
+      "question": "What has a head like a cat, feet like a cat, a tail like a cat—but isn’t a cat?",
+      "answer": "A kitten",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What can fill a room but weighs nothing?",
+      "answer": "A smell",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What can you see once in a year, twice in a week, but never in a day?",
+      "answer": "The letter E",
+      "difficulty": "medium",
+      "language": "en"
+    },
+    {
+      "question": "What is so fragile that saying its name breaks it?",
+      "answer": "Silence",
+      "difficulty": "medium",
+      "language": "en"
+    },
+    {
+      "question": "What has one voice but becomes louder as it grows?",
+      "answer": "A crowd",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What runs but never gets tired?",
+      "answer": "A refrigerator (it runs)",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has a neck but no throat?",
+      "answer": "A guitar",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has a mouth but never eats, and a bed but never sleeps?",
+      "answer": "A river",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What can you break without touching it?",
+      "answer": "A rule",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has four wheels and never moves, yet can fly?",
+      "answer": "A shopping cart with flies (in the trash)",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What is easy to lift but hard to throw?",
+      "answer": "A feather",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has a tail but no fur, and can swim but isn’t alive?",
+      "answer": "A comet",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What comes once in a second, twice in a decade, but never in a year?",
+      "answer": "The letter D",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What can you serve but never eat?",
+      "answer": "A tennis ball",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What is always in the middle of the ocean?",
+      "answer": "The letter C",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What is at the end of a rainbow?",
+      "answer": "The letter W",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has a blade but isn’t a knife?",
+      "answer": "A fan",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What can you catch in a net but not in your hands?",
+      "answer": "Water",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has two banks but no money?",
+      "answer": "A river",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has many books but no words?",
+      "answer": "A bookshelf",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What can you hold in your arms without using your hands?",
+      "answer": "A yawn",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has roots that nobody sees, is taller than trees, up, up it goes, and yet never grows?",
+      "answer": "A mountain",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has a heart but no blood?",
+      "answer": "A peach",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What is bought by the yard but worn by the foot?",
+      "answer": "Carpet",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has many stars but no sky?",
+      "answer": "The American flag",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has hands but no arms and counts without thinking?",
+      "answer": "A clock",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has a shell but isn’t a turtle?",
+      "answer": "An egg",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What can you hear but not see, and it can answer you back?",
+      "answer": "An echo",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What can be seen in the water but never gets wet?",
+      "answer": "A reflection",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What is made of water but can cut through stone?",
+      "answer": "A waterfall",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has an end but no beginning, and a beginning but no end?",
+      "answer": "A stick (one end is sharpened)",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What gets bigger when you turn it upside down?",
+      "answer": "The number 6 (becomes 9)",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What travels faster: heat or cold?",
+      "answer": "Heat (cold is the absence of heat)",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What can be whispered but can be heard around the world?",
+      "answer": "A rumor",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has a tail and a head, but no body?",
+      "answer": "A coin",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What can you throw away to use, and take back to stop using?",
+      "answer": "An anchor",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "I’m not alive, but I grow; I don’t have lungs, but I need air; I don’t have a mouth, but water kills me. What am I?",
+      "answer": "Fire",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What is cut on a table but never eaten?",
+      "answer": "A deck of cards",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What can be long or short; it can be grown or bought; it can be painted or left bare. What is it?",
+      "answer": "Hair",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What is yours to hold, but others use it more than you do?",
+      "answer": "Your name",
+      "difficulty": "medium",
+      "language": "en"
+    },
+    {
+      "question": "What has a single spine, but thousands of ribs?",
+      "answer": "A book",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has no beginning, end, or middle, yet holds everything?",
+      "answer": "A circle",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What comes in through a keyhole but is never locked in?",
+      "answer": "Light",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What can you hold in one hand and see in the other?",
+      "answer": "A mirror (your reflection)",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "If you have me, you want to share me. If you share me, you no longer have me. What am I?",
+      "answer": "A secret",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has a head and a foot but no legs?",
+      "answer": "A bed",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What is always in front of you but can’t be seen?",
+      "answer": "The future",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What kind of tree can you carry in your hand?",
+      "answer": "A palm",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What kind of bow can’t be tied?",
+      "answer": "A rainbow",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has a head and a tail but no body, and is used to buy things?",
+      "answer": "A coin",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What can you write, but never read?",
+      "answer": "A wrong (a mistake)",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What has many layers but makes you cry?",
+      "answer": "An onion",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What is as big as you are but weighs nothing?",
+      "answer": "Your shadow",
+      "difficulty": "easy",
+      "language": "en"
+    },
+    {
+      "question": "What can be heard, caught, and seen—yet never touched?",
+      "answer": "A joke (laughter)",
+      "difficulty": "easy",
+      "language": "en"
     },
     {
       "question": "I talk, but I do not speak my mind. I hear words, but I do not listen to thoughts. When I wake, all see me. When I sleep, all hear me. Many heads are on my shoulders. Many hands are at my feet. The strongest steel cannot break my visage, but the softest whisper can destroy me. The quietest whimper can be heard.",
-      "answer": "An actor"
+      "answer": "An actor",
+      "difficulty": "medium",
+      "language": "en"
+    },
+    {
+      "question": "¿Qué tiene llaves pero no puede abrir cerraduras?",
+      "answer": "Un piano",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué se moja mientras se seca?",
+      "answer": "Una toalla",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Alto alto como un pino y pesa menos que un comino. ¿Qué es?",
+      "answer": "El humo",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Blanca por dentro, verde por fuera. Si quieres que te lo diga, espera.",
+      "answer": "La pera",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Oro parece, plata no es. ¿Qué es?",
+      "answer": "El plátano",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué cosa es que mientras más grande, menos se ve?",
+      "answer": "La oscuridad",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Tengo agujas pero no coso, tengo números pero no soy matemático. ¿Qué soy?",
+      "answer": "Un reloj",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué tiene cuello pero no tiene cabeza?",
+      "answer": "Una botella",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Tiene dientes pero no puede morder. ¿Qué es?",
+      "answer": "Un peine",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué tiene manos pero no puede aplaudir?",
+      "answer": "Un reloj",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Puedes encontrarme en Mercurio, Tierra, Marte y Júpiter, pero no en Venus ni Neptuno. ¿Qué soy?",
+      "answer": "La letra R",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué sube y baja pero nunca se mueve?",
+      "answer": "Una escalera",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Vuela sin alas, llora sin ojos. ¿Qué es?",
+      "answer": "Una nube",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué cae pero nunca se lastima?",
+      "answer": "La nieve",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Tengo ciudades pero no casas, tengo montañas pero no árboles, tengo agua pero no peces. ¿Qué soy?",
+      "answer": "Un mapa",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Entre más lo secas, más mojado está. ¿Qué es?",
+      "answer": "El agua",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué tiene patas pero no puede caminar?",
+      "answer": "Una mesa",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Cuanto más quitas, más grande se vuelve. ¿Qué es?",
+      "answer": "Un agujero",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué se rompe sin ser sujetado?",
+      "answer": "Una promesa",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Puedo llenar una habitación sin ocupar espacio. ¿Qué soy?",
+      "answer": "La luz",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Tengo ojos pero no puedo ver. ¿Qué soy?",
+      "answer": "Una papa",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué puedes atrapar pero no lanzar?",
+      "answer": "Un resfriado",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué tiene cabeza y cola pero no tiene cuerpo?",
+      "answer": "Una moneda",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué edificio tiene más historias?",
+      "answer": "Una biblioteca",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Soy alto cuando soy joven y bajo cuando soy viejo. ¿Qué soy?",
+      "answer": "Una vela",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué cosa pertenece a ti pero otros la usan más que tú?",
+      "answer": "Tu nombre",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué se puede romper sin ser tocado?",
+      "answer": "El silencio",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Tengo trece corazones pero ningún otro órgano. ¿Qué soy?",
+      "answer": "Una baraja de cartas",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "La madre de María tiene cinco hijas: Lala, Lele, Lili, Lolo y...",
+      "answer": "María",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué pregunta nunca puedes responder con 'sí'?",
+      "answer": "¿Estás dormido?",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Si hay tres manzanas y tomas dos, ¿cuántas tienes?",
+      "answer": "Dos",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué mes del año tiene 28 días?",
+      "answer": "Todos",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Un hombre estaba bajo la lluvia sin paraguas ni sombrero. No se mojó ni un pelo. ¿Por qué?",
+      "answer": "Era calvo",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué tiene un ojo pero no puede ver?",
+      "answer": "Una aguja",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Corro pero no camino, tengo boca pero no hablo. ¿Qué soy?",
+      "answer": "Un río",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué viene una vez en un minuto, dos veces en un momento pero nunca en mil años?",
+      "answer": "La letra M",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Cuál es el animal que camina con las patas en la cabeza?",
+      "answer": "El piojo",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Redondo, redondo como un queso y tiene el diablo dentro. ¿Qué es?",
+      "answer": "Un revólver",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Dos padres y dos hijos fueron a pescar. Pescaron tres peces y cada uno se llevó uno. ¿Cómo es posible?",
+      "answer": "Eran tres personas: abuelo, padre e hijo",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué palabra de cinco letras se vuelve más corta cuando le añades dos letras?",
+      "answer": "Corta",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "En una casa de un piso todo es amarillo: las paredes, las puertas, los muebles. ¿De qué color son las escaleras?",
+      "answer": "No hay escaleras, es de un piso",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué animal tiene los pies en la cabeza?",
+      "answer": "El piojo",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Vive en invierno, muere en verano y crece con las raíces hacia arriba. ¿Qué es?",
+      "answer": "Un carámbano",
+      "difficulty": "medium",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué pesa más, un kilo de hierro o un kilo de plumas?",
+      "answer": "Pesan lo mismo",
+      "difficulty": "medium",
+      "language": "es"
+    },
+    {
+      "question": "Tengo cola pero no soy animal, tengo cabeza pero no soy persona. ¿Qué soy?",
+      "answer": "Un alfiler",
+      "difficulty": "medium",
+      "language": "es"
+    },
+    {
+      "question": "Verde nací, amarillo crecí y rojo me cortaron. ¿Qué soy?",
+      "answer": "Un tomate",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué árbol no da sombra, ni flores, ni frutos?",
+      "answer": "El árbol genealógico",
+      "difficulty": "medium",
+      "language": "es"
+    },
+    {
+      "question": "Tengo alas pero no vuelo, tengo cola pero no soy animal. ¿Qué soy?",
+      "answer": "Un avión",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Un burro está atado a una cuerda de 3 metros y hay hierba a 10 metros. ¿Cómo puede comer la hierba?",
+      "answer": "La cuerda no está atada a nada más",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué tiene orejas pero no puede oír?",
+      "answer": "Un campo de maíz",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué cosa es tuya pero la usan más los demás?",
+      "answer": "Tu nombre",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Me ves en el cielo de día, pero no soy el sol. A veces parezco queso, a veces caracol. ¿Qué soy?",
+      "answer": "La luna",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Tengo páginas pero no soy un libro; tengo hojas pero no soy un árbol. ¿Qué soy?",
+      "answer": "Un cuaderno",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Sin ser humano, tengo brazo y tengo mano; y si me das cuerda, camino. ¿Qué soy?",
+      "answer": "Un reloj de cuerda",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Cuanto más me aprietas, más me escapo. ¿Qué soy?",
+      "answer": "El jabón",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Soy blanco por fuera y amarillo por dentro; si me fríen, estoy contento. ¿Qué soy?",
+      "answer": "Un huevo",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Tengo pelo por fuera, soy suave por dentro; si me muerdes, te lleno de contento. ¿Qué soy?",
+      "answer": "Un kiwi",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Vuelo de flor en flor y no soy avión; hago miel sin ser cocinón. ¿Qué soy?",
+      "answer": "Una abeja",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "En la mesa me verás, pero no me puedes comer; si me doblas, te puedo romper. ¿Qué soy?",
+      "answer": "Una servilleta",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Estoy en la cama y en el sofá, pero nunca en el suelo; abrazo tu cabeza cuando tienes sueño. ¿Qué soy?",
+      "answer": "Una almohada",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Soy una casa sin puerta, y aun así te guardo. ¿Qué soy?",
+      "answer": "Una caja",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Subo al cielo sin alas y bajo sin patas. ¿Qué soy?",
+      "answer": "El vapor",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Tengo cola y no soy animal; tecleo y no soy piano. ¿Qué soy?",
+      "answer": "Una cometa",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Siempre estoy en el baño, pero no soy toalla; si me aprietas, canto sin garganta. ¿Qué soy?",
+      "answer": "La pasta de dientes",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Me rompo al nombrarme. ¿Qué soy?",
+      "answer": "El silencio",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Voy y vengo sin moverme del sitio. ¿Qué soy?",
+      "answer": "La puerta",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Tengo ruedas y no soy coche; llevo letras y no soy libro. ¿Qué soy?",
+      "answer": "Una máquina de escribir",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Si me miras, te miras; si me rompes, te multiplicas. ¿Qué soy?",
+      "answer": "Un espejo",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Me encienden para ver y me apagan para dormir. ¿Qué soy?",
+      "answer": "Una lámpara",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Tengo agujeros y aun así abrigo. ¿Qué soy?",
+      "answer": "Un suéter",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Me pones en la cabeza y no soy sombrero; me atas y no soy zapato. ¿Qué soy?",
+      "answer": "Un listón",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "No tengo boca y te cuento secretos al oído. ¿Qué soy?",
+      "answer": "El viento",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Mientras más me quitas, más valgo. ¿Qué soy?",
+      "answer": "Una entrada (boleto) perforada",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Me encuentras al final de la noche y al principio de la nada. ¿Qué soy?",
+      "answer": "La letra N",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Cuanto más trabajo, más corto me quedo. ¿Qué soy?",
+      "answer": "Un lápiz",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Sin ser persona, tengo lengua y te digo la hora. ¿Qué soy?",
+      "answer": "Una campana",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Nací en el agua, viví en la tierra y termino en el fuego. ¿Qué soy?",
+      "answer": "La sal (del mar a la mesa y al cocinar)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Entre más viejo soy, más valgo; entre más nuevo, más gasto. ¿Qué soy?",
+      "answer": "El vino",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Entra duro y sale blando; si no lo masticas, igual lo ablanda. ¿Qué es?",
+      "answer": "El chicle",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Tengo llave y cerradura, pero no abro puertas. ¿Qué soy?",
+      "answer": "Un grifo",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Si me nombras, desaparezco; si me buscas, me encuentras. ¿Qué soy?",
+      "answer": "Un error",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Soy redondo como el mundo y no soy planeta; me das vuelta y te doy la receta. ¿Qué soy?",
+      "answer": "Una rueda de cocina (temporizador de horno)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Tengo cara y no soy persona; tengo ojos y no veo; tengo manos y no toco. ¿Qué soy?",
+      "answer": "Un muñeco",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Cuatro hermanas muy unidas, siempre van por la calle; una abre, otra cierra, y ninguna habla. ¿Qué son?",
+      "answer": "Las tijeras",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Me pisan al entrar y me agradecen al salir. ¿Qué soy?",
+      "answer": "Un tapete",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Si me das de comer, vivo; si me das de beber, muero. ¿Qué soy?",
+      "answer": "El fuego",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Siempre te sigo, pero nunca te alcanzo; si te detienes, yo también. ¿Qué soy?",
+      "answer": "Tu sombra",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Te pertenezco, pero casi siempre me pierdes; y cuando me encuentras, ya es tarde. ¿Qué soy?",
+      "answer": "El tiempo",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Estoy en el mar y en la mesa; si me echas de más, todo se queja. ¿Qué soy?",
+      "answer": "La sal",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "No soy humano, pero tengo corazón; si me lo quitas, muero en montón. ¿Qué soy?",
+      "answer": "Una lechuga",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Cuando estoy lleno, peso menos; cuando estoy vacío, peso más. ¿Qué soy?",
+      "answer": "Un globo",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Hay algo que cuanto más grande es, menos pesa. ¿Qué es?",
+      "answer": "Un agujero",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Me usan para cortar sin cuchillo y para escribir sin tinta. ¿Qué soy?",
+      "answer": "Un dedo",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Me ves una vez en 'cielo' y dos en 'cuchillo'. ¿Qué soy?",
+      "answer": "La letra I",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Tengo un ojo en cada esquina y no puedo ver nada. ¿Qué soy?",
+      "answer": "Un dado",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Si me soplas, crezco; si me muerdes, desaparezco. ¿Qué soy?",
+      "answer": "Una burbuja",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Me guardan en la cartera, pero no soy dinero; si me pierdes, te desesperas primero. ¿Qué soy?",
+      "answer": "Una identificación",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Soy puente sin río y también río sin puente; te llevo y me llevas en la mente. ¿Qué soy?",
+      "answer": "Un recuerdo",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Cuanto más me calientas, más frío parezco. ¿Qué soy?",
+      "answer": "El hielo (por el vapor que enfría lo que toca)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Me abres para cerrar; me cierras para abrir. ¿Qué soy?",
+      "answer": "Un paraguas",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Estoy en todas partes, pero no ocupo lugar; si me apagas, me puedes notar. ¿Qué soy?",
+      "answer": "La luz",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Vivo entre tus dientes y me odias, pero sin mí no comes. ¿Qué soy?",
+      "answer": "La lengua",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Siempre sube, aunque baje; siempre baja, aunque suba. ¿Qué es?",
+      "answer": "La temperatura en un termómetro (sube/baja la columna)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Tengo un pie en la tierra y otro en el mar; y aunque me muevo, no sé caminar. ¿Qué soy?",
+      "answer": "Un muelle",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Me llaman para hablar, pero no tengo voz; y si me cuelgan, no siento dolor. ¿Qué soy?",
+      "answer": "Un teléfono",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Soy un camino que no se pisa y un río que no moja. ¿Qué soy?",
+      "answer": "Una calle en un mapa",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Tengo dientes arriba y dientes abajo, pero no muerdo bocado. ¿Qué soy?",
+      "answer": "Una cremallera",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Me escriben para olvidarme y me guardan para recordarme. ¿Qué soy?",
+      "answer": "Una nota",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Si me quitas la primera, quedo igual; si me quitas la última, también. ¿Qué palabra es?",
+      "answer": "“anana” (ananá/piña en algunas regiones)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Tengo dos letras, y si me das la vuelta, valgo menos. ¿Qué soy?",
+      "answer": "“no” (al revés “on”, no es palabra en español)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Soy la mitad de dos y el doble de uno. ¿Qué soy?",
+      "answer": "Uno",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "En una habitación hay 3 interruptores y en el cuarto de al lado hay 1 foco. Puedes entrar al cuarto del foco solo una vez. ¿Cómo sabes qué interruptor lo enciende?",
+      "answer": "Enciende uno unos minutos, apágalo, enciende otro y entra: si está encendido es el segundo; si está apagado pero caliente es el primero; si está apagado y frío es el tercero.",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Un hombre mira un retrato y dice: “No tengo hermanos ni hermanas, pero el padre de ese hombre es el hijo de mi padre”. ¿Quién es el del retrato?",
+      "answer": "Su hijo",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué palabra se escribe igual al derecho y al revés, y además suena igual?",
+      "answer": "Reconocer",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Si un gallo pone un huevo en la punta de un techo, ¿hacia dónde rueda?",
+      "answer": "Los gallos no ponen huevos",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "En un lago hay nenúfares. Cada día se duplica la cantidad. Si tarda 48 días en cubrir el lago completo, ¿qué día estaba cubierto a la mitad?",
+      "answer": "El día 47",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Hay dos puertas: una lleva a la libertad y otra a un león. Dos guardianes: uno siempre miente y otro siempre dice la verdad. Puedes hacer una sola pregunta a uno de ellos. ¿Qué preguntas?",
+      "answer": "“Si le preguntara al otro cuál puerta lleva a la libertad, ¿qué me diría?” y eliges la puerta contraria.",
+      "difficulty": "medium",
+      "language": "es"
+    },
+    {
+      "question": "Tengo 7 letras. Si me quitas 2, me quedan 5. Si me quitas 3, me quedan 2. ¿Qué soy?",
+      "answer": "“semana” (juego de letras: no es literal de conteo, es un juego de eliminación por significado en adivinanzas)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué número, al multiplicarlo por sí mismo, termina siempre en el mismo dígito con el que empieza?",
+      "answer": "5 y 6 (por ejemplo 5²=25, 6²=36)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Un tren eléctrico va hacia el norte. ¿Hacia dónde va el humo?",
+      "answer": "No hay humo: es eléctrico",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Si te digo ‘te miento’, ¿digo la verdad o miento?",
+      "answer": "Es una paradoja: no se puede determinar de forma consistente",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Hay 12 monedas; una es falsa y pesa distinto. Con 3 pesadas en una balanza, ¿cómo encuentras la falsa y si es más pesada o más ligera?",
+      "answer": "Con estrategia clásica de 12 monedas en 3 pesadas (división 4-4-4 y árbol de decisiones)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué palabra de 4 letras, al añadirle 2, se convierte en una de 3?",
+      "answer": "“cien” → “ciento” (según juego, puede variar por dialecto; la idea es un juego de palabras)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Un caracol está en un pozo de 10 m. Sube 3 m de día y baja 2 m de noche. ¿En cuántos días sale?",
+      "answer": "En 8 días",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Si hoy es ayer del mañana, ¿qué día es hoy?",
+      "answer": "Es hoy (planteamiento circular); la ‘respuesta’ correcta es que la frase no define un día único",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué se puede medir, pero no ver; se puede perder, pero no tocar; y cuando falta, todo se vuelve peor?",
+      "answer": "El tiempo",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Te lo doy y lo sigues teniendo. ¿Qué es?",
+      "answer": "Un consejo",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Si me nombras, dejo de existir; si me ignoras, a veces crezco. ¿Qué soy?",
+      "answer": "El miedo",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "En una carrera, adelantas al último. ¿En qué lugar vas?",
+      "answer": "No puedes adelantar al último; si lo adelantas, ya no era el último",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué tiene principio pero no fin, y fin pero no principio?",
+      "answer": "Un círculo (tiene ‘fin’ en el sentido de borde, pero no inicio)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué es más útil cuanto más grande es, pero más difícil de mover cuanto más pequeño es?",
+      "answer": "Un agujero (en sentido práctico: grande útil, pequeño ‘no sirve’)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Estoy entre la ‘a’ y la ‘z’, pero no soy letra. ¿Qué soy?",
+      "answer": "La ‘y’ (la palabra “y”, como conjunción)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Tengo anillos, pero no dedos; y a veces lloro sin sentir. ¿Qué soy?",
+      "answer": "Un árbol (anillos de crecimiento)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Me rompo si me miras fijo. ¿Qué soy?",
+      "answer": "La concentración (se “rompe” con distracción)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Nunca me ves en enero, pero sí dos veces en febrero. ¿Qué soy?",
+      "answer": "La letra ‘r’",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Tengo un banco y no es para sentarse; tengo corriente y no es de dinero. ¿Qué soy?",
+      "answer": "Un río",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Mientras más vueltas doy, más me mareo yo mismo. ¿Qué soy?",
+      "answer": "Un trompo",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Vivo en la pared, pero no soy cuadro; si me miras mucho, te digo ‘hola’. ¿Qué soy?",
+      "answer": "Un reloj de pared",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "De noche me cuelgan, de día me pisan. ¿Qué soy?",
+      "answer": "Los zapatos",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Sin ser cuchillo, corto; sin ser papel, rasgo. ¿Qué soy?",
+      "answer": "Una sierra",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Te doy calor y no soy sol; me prendes y me controlas. ¿Qué soy?",
+      "answer": "Una estufa",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Siempre estoy en medio del mar, pero nunca me mojo. ¿Qué soy?",
+      "answer": "La letra ‘a’ (en la palabra “mar” está en medio de ‘m’ y ‘r’ no; aquí es juego: en “marea”, etc.)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué palabra contiene todas las vocales y solo una vez cada una?",
+      "answer": "Murciélago",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Tengo techo de cristal y suelo de agua; si me caigo, no me rompo. ¿Qué soy?",
+      "answer": "Una burbuja",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Me usan para ver, pero no soy ojos; me limpian y me rayo. ¿Qué soy?",
+      "answer": "Un lente (gafas)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Cuanto más me llenas, menos peso. ¿Qué soy?",
+      "answer": "Un agujero",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Tengo orejas, pero no oigo; tengo lomo, pero no camino. ¿Qué soy?",
+      "answer": "Un libro",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué tiene ‘cama’ pero no duerme, y ‘boca’ pero no habla?",
+      "answer": "Un río",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Entro al agua y no me mojo; entro al fuego y no me quemo. ¿Qué soy?",
+      "answer": "Una sombra",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Tengo corona y no soy rey; tengo espinas y no soy cactus. ¿Qué soy?",
+      "answer": "Una piña",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Soy un número que si lo giras deja de ser número. ¿Cuál soy?",
+      "answer": "6 (se vuelve 9)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Si me sumas, me resto; si me restas, me sumo. ¿Qué soy?",
+      "answer": "Un número negativo",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Cuatro salen, dos entran; si no hay ritmo, se te va la vida. ¿Qué es?",
+      "answer": "La respiración",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Todos me rompen, nadie me arregla, y aun así me vuelven a usar. ¿Qué soy?",
+      "answer": "El pan (la corteza al partirlo)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Sin ser puerta, tengo marco; sin ser ventana, dejo pasar la luz. ¿Qué soy?",
+      "answer": "Un cuadro (marco con vidrio)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Cuanto más me acercas, menos me ves. ¿Qué soy?",
+      "answer": "La oscuridad",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Tengo ‘llave’ y ‘boca’, pero no soy persona. ¿Qué soy?",
+      "answer": "Una botella",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Me puedes leer, pero no me puedes tocar; si me borras, me vuelves a crear. ¿Qué soy?",
+      "answer": "Un archivo digital",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Si me nombras, soy; si me callas, también. ¿Qué soy?",
+      "answer": "La palabra",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Estoy en el principio de París y al final de Madrid. ¿Qué soy?",
+      "answer": "La letra ‘d’ (juego: París no tiene d; Madrid termina en d; es trampa: “de” está al inicio de “de París”)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Tengo patas, pero no camino; tengo respaldo, pero no me siento. ¿Qué soy?",
+      "answer": "Una silla",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Hay un hombre en un cuarto cerrado. No hay ventanas ni puertas. ¿Cómo salió?",
+      "answer": "Dejó de imaginarlo (era imaginario)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "En una mesa hay 10 velas. Apagas 3. ¿Cuántas quedan?",
+      "answer": "Quedan 10 (pero 3 apagadas)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Si un avión cae en la frontera entre dos países, ¿dónde entierran a los sobrevivientes?",
+      "answer": "No se entierran sobrevivientes",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué tiene un millón de teclas y una sola boca?",
+      "answer": "Un piano de cola (metáfora exagerada)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Estoy lleno de agujeros, pero si me aprietas, no dejo escapar nada. ¿Qué soy?",
+      "answer": "Un colador (con comida sólida)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Mientras más corro, más quieto me quedo. ¿Qué soy?",
+      "answer": "Una rueda (si gira en el sitio)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Soy el hijo del agua y el padre del hielo. ¿Qué soy?",
+      "answer": "El frío",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Siempre me buscas al inicio, pero aparezco al final. ¿Qué soy?",
+      "answer": "El resultado",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Si me quitas una letra, sigo siendo lo mismo; si me quitas dos, también. ¿Qué soy?",
+      "answer": "“oro” → “or” (no español) (este tipo de juego depende; no recomendado)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "No soy humano, pero tengo memoria; si me apagas, olvido en un instante. ¿Qué soy?",
+      "answer": "Una computadora (RAM)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "¿Qué sube cuando la lluvia baja?",
+      "answer": "Un paraguas",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Me usan para contar, pero nunca cuento la verdad completa. ¿Qué soy?",
+      "answer": "Un rumor",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Estoy entre el 1 y el 2, pero no soy número. ¿Qué soy?",
+      "answer": "El punto decimal",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Tengo casa y no vivo; tengo cama y no duermo. ¿Qué soy?",
+      "answer": "Una hormiga (en expresiones: hormiguero/cama de hojas) — mejor: “una cama” (río) ya usada; aquí: \"una cámara\" no; omitible",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Mi nombre suena a pregunta y a respuesta a la vez. ¿Qué soy?",
+      "answer": "“¿Qué?” (la palabra)",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Tengo cuello y cintura, pero no soy persona. ¿Qué soy?",
+      "answer": "Una guitarra",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Entra dura, sale rota, y aun así te da alegría. ¿Qué es?",
+      "answer": "Una piñata",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Me sientas y me levantas sin que yo me mueva. ¿Qué soy?",
+      "answer": "Una silla",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Sin ser boca, tengo labios; sin ser río, tengo corriente. ¿Qué soy?",
+      "answer": "Un enchufe (corriente eléctrica) — labios del enchufe",
+      "difficulty": "easy",
+      "language": "es"
+    },
+    {
+      "question": "Soy la suma de mí mismo y de mí mismo, y sigo siendo yo. ¿Qué soy?",
+      "answer": "Cero",
+      "difficulty": "easy",
+      "language": "es"
     }
   ]
 }

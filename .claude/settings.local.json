@@ -10,7 +10,10 @@
       "Bash(heroku --version:*)",
       "Bash(heroku create:*)",
       "Bash(git push:*)",
-      "Bash(heroku open:*)"
+      "Bash(heroku open:*)",
+      "Bash(node categorize-riddles.js:*)",
+      "Bash(node recategorize-riddles.js:*)",
+      "Bash(node fix-difficulty.js:*)"
     ],
     "deny": [],
     "ask": []

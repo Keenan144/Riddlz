@@ -20,12 +20,13 @@
   <div class="container">
     <header>
       <h1>Riddlz</h1>
+      <button id="menu-btn" class="menu-btn"></button>
       <div class="stats">
         <div class="counter">
           <span id="current-riddle">1</span> / <span id="total-riddles">0</span>
         </div>
         <div class="score">
-          Score: <span id="correct-count">0</span> / <span id="attempted-count">0</span>
+          <span id="score-label"></span> <span id="correct-count">0</span> / <span id="attempted-count">0</span>
         </div>
       </div>
     </header>
@@ -51,14 +52,86 @@
 
     <div class="controls">
       <div id="riddle-controls" class="riddle-controls">
-        <button id="back-btn" class="nav-btn back-btn">← Back</button>
-        <button id="reveal-btn" class="action-btn">Reveal Answer</button>
+        <button id="back-btn" class="nav-btn back-btn"></button>
+        <button id="reveal-btn" class="action-btn"></button>
       </div>
       <div id="answer-controls" class="answer-controls hidden">
-        <button id="wrong-btn" class="score-btn wrong-btn">Got it Wrong</button>
-        <button id="correct-btn" class="score-btn correct-btn">Got it Right!</button>
+        <button id="wrong-btn" class="score-btn wrong-btn"></button>
+        <button id="correct-btn" class="score-btn correct-btn"></button>
       </div>
     </div>
+  </div>
+
+  <!-- Settings Modal -->
+  <div id="settings-modal" class="modal hidden">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2></h2>
+        <button id="close-modal" class="close-btn">&times;</button>
+      </div>
+      <div class="modal-body">
+        <div class="setting-group">
+          <label for="language-select"></label>
+          <select id="language-select" class="setting-input">
+            <option value="en">English</option>
+            <option value="es">Español</option>
+          </select>
+        </div>
+
+        <div class="setting-group">
+          <label for="difficulty-select"></label>
+          <select id="difficulty-select" class="setting-input">
+            <option value="all"></option>
+            <option value="easy"></option>
+            <option value="medium"></option>
+            <option value="hard"></option>
+          </select>
+        </div>
+
+        <div class="setting-group">
+          <label for="riddle-count"></label>
+          <select id="riddle-count" class="setting-input">
+            <option value="all"></option>
+            <option value="3"></option>
+            <option value="5"></option>
+            <option value="10"></option>
+            <option value="15"></option>
+            <option value="20"></option>
+            <option value="30"></option>
+            <option value="50"></option>
+            <option value="100"></option>
+          </select>
+        </div>
+
+        <div class="setting-group">
+          <label for="timer-toggle"></label>
+          <div class="toggle-container">
+            <input type="checkbox" id="timer-toggle" class="toggle-checkbox">
+            <label for="timer-toggle" class="toggle-label"></label>
+            <span id="timer-status" class="toggle-status"></span>
+          </div>
+        </div>
+
+        <div id="timer-settings" class="setting-group hidden">
+          <label for="timer-duration"></label>
+          <select id="timer-duration" class="setting-input">
+            <option value="10"></option>
+            <option value="20"></option>
+            <option value="30" selected></option>
+            <option value="45"></option>
+            <option value="60"></option>
+          </select>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button id="apply-settings" class="apply-btn"></button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Timer Display -->
+  <div id="timer-display" class="timer-display hidden">
+    <span id="timer-text">30</span>s
   </div>
 
   <script src="app.js"></script>
